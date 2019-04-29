@@ -1,0 +1,2 @@
+# informatics-kz
+informatics
